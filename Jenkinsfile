@@ -8,4 +8,7 @@ node {
     stage("deploy") {
         print("successful Deploy")
     }
+    stag("Finish Build") {
+        print("Finsh Build And Colse")
+    }
 }
